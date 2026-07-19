@@ -1,0 +1,6 @@
+# The readable HTML source - keep it invisible
+site.html
+site_output.html
+hello.ws
+hello_actual.ws
+__pycache__/
